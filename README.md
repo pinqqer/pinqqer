@@ -5,7 +5,7 @@
 
 ### My Skills:
 <p align="center">
-  <img src="[https://github.com/your-username/your-repository/raw/main/images/react.png](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)" height="40" title="React">
+  <img src="[[https://github.com/your-username/your-repository/raw/main/images/react.png](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)" height="40" title="React">
   <img src="https://github.com/your-username/your-repository/raw/main/images/html.png" height="40" title="HTML">
   <img src="https://github.com/your-username/your-repository/raw/main/images/css.png" height="40" title="CSS">
   <img src="https://github.com/your-username/your-repository/raw/main/images/sass.png" height="40" title="Sass">
