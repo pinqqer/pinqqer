@@ -4,30 +4,21 @@
 
 ## My Skills
 
-- JavaScript
-![JavaScript](https://example.com/path/to/javascript-image.png)
+### JavaScript
+<img src="https://example.com/javascript.png" alt="JavaScript" width="50" />
 
-- React
-![React](https://example.com/path/to/react-image.png)
+### React
+<img src="https://example.com/react.png" alt="React" width="50" />
 
-- HTML
-![HTML](https://example.com/path/to/html-image.png)
+### HTML
+<img src="https://example.com/html.png" alt="HTML" width="50" />
 
-- CSS
-![CSS](https://example.com/path/to/css-image.png)
+### CSS
+<img src="https://example.com/css.png" alt="CSS" width="50" />
 
-- Sass
-![Sass](https://example.com/path/to/sass-image.png)
+### Sass
+<img src="https://example.com/sass.png" alt="Sass" width="50" />
 
-## Additional Skills
-
-- Redux
-![Redux](https://example.com/path/to/redux-image.png)
-
-- TypeScript
-![TypeScript](https://example.com/path/to/typescript-image.png)
-
-- Bootstrap
-![Bootstrap](https://example.com/path/to/bootstrap-image.png)
-
-Feel free to explore my GitHub repositories to see more of my projects and skills. Happy coding!
+### Additional Skills
+<img src="https://example.com/skill1.png" alt="Skill 1" width="50" />
+<img src="https://example.com/skill2.png" alt="Skill 2" width="50" />
